@@ -1,0 +1,38 @@
+export const projects = [
+  {
+    title: 'CareerBoard',
+    label: 'Productivity / React',
+    description:
+      'A job-application workspace for tracking roles, interview stages, recruiter details and follow-up dates in one focused interface.',
+    image:
+      'https://raw.githubusercontent.com/Brandonmunisur/react-portfolio/main-Brandon/src/assets/images/application-tracker.png',
+    stack: ['React', 'JavaScript', 'Vite', 'Local Storage'],
+    github: 'https://github.com/Brandonmunisur/careerboard-react',
+    live: 'https://brandonmunisur.github.io/careerboard-react/',
+    featured: true,
+  },
+  {
+    title: 'Disney+ Interface',
+    label: 'Frontend / Firebase',
+    description:
+      'A streaming-platform interface inspired by Disney+, built to explore component architecture, state management and authenticated data flows.',
+    image:
+      'https://raw.githubusercontent.com/Brandonmunisur/react-portfolio/main-Brandon/src/assets/images/disney.png',
+    stack: ['React', 'Firebase', 'Redux', 'JavaScript'],
+    github: 'https://github.com/Brandonmunisur/disney-clone',
+    live: 'https://disneyplus-clone-84335.firebaseapp.com/',
+  },
+]
+
+export const stack = [
+  'React',
+  'JavaScript',
+  'Node.js',
+  'REST APIs',
+  'C#',
+  'C++',
+  'Firebase',
+  'SQL',
+  'Git',
+  'Responsive UI',
+]
