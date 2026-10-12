@@ -1,6 +1,18 @@
 export const projects = [
   {
-    title: 'CareerBoard',
+    title: 'ScreenshotOS',
+    label: 'AI SaaS / Full Stack',
+    description:
+      'An AI-powered screenshot intelligence product that turns saved screenshots into organised, searchable actions for products, places, events, recipes and travel.',
+    image:
+      'https://brandonmunisur.github.io/brandon-portfolio-v2/screenshotos-preview.svg',
+    stack: ['Next.js', 'React', 'Supabase', 'Gemini AI'],
+    github: 'https://github.com/Brandonmunisur/screenshot-os',
+    live: 'https://screenshot-os.vercel.app/',
+    featured: true,
+  },
+  {
+    title: 'Application Tracker',
     label: 'Productivity / React',
     description:
       'A job-application workspace for tracking roles, interview stages, recruiter details and follow-up dates in one focused interface.',
@@ -9,10 +21,9 @@ export const projects = [
     stack: ['React', 'JavaScript', 'Vite', 'Local Storage'],
     github: 'https://github.com/Brandonmunisur/careerboard-react',
     live: 'https://brandonmunisur.github.io/careerboard-react/',
-    featured: true,
   },
   {
-    title: 'Disney+ Interface',
+    title: 'Disney+ Clone',
     label: 'Frontend / Firebase',
     description:
       'A streaming-platform interface inspired by Disney+, built to explore component architecture, state management and authenticated data flows.',
