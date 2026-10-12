@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">ScreenshotOS dashboard preview</title>
+  <desc id="desc">A stylised preview of the ScreenshotOS private screenshot intelligence dashboard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111312"/>
+      <stop offset="1" stop-color="#20221f"/>
+    </linearGradient>
+    <linearGradient id="shot1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d8d8cf"/>
+      <stop offset="1" stop-color="#f7f5ec"/>
+    </linearGradient>
+    <linearGradient id="shot2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8ec8df"/>
+      <stop offset=".55" stop-color="#7ba67a"/>
+      <stop offset=".56" stop-color="#e8c17e"/>
+    </linearGradient>
+    <linearGradient id="shot3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#253ad9"/>
+      <stop offset="1" stop-color="#7a67ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#000" flood-opacity=".28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="760" rx="34" fill="#0d0f0e"/>
+  <rect x="34" y="34" width="1132" height="692" rx="28" fill="#f4f2ec" filter="url(#shadow)"/>
+
+  <rect x="34" y="34" width="235" height="692" rx="28" fill="url(#bg)"/>
+  <rect x="239" y="34" width="30" height="692" fill="#171917"/>
+
+  <rect x="62" y="68" width="36" height="36" rx="11" fill="none" stroke="#f4f2ec" stroke-width="2"/>
+  <circle cx="80" cy="86" r="6" fill="#c9ff63"/>
+  <text x="112" y="91" fill="#f7f6f1" font-family="Arial, sans-serif" font-size="18" font-weight="700">ScreenshotOS</text>
+
+  <rect x="60" y="136" width="181" height="42" rx="12" fill="#c9ff63"/>
+  <text x="97" y="162" fill="#171917" font-family="Arial, sans-serif" font-size="14" font-weight="700">+ Add screenshot</text>
+
+  <rect x="60" y="211" width="181" height="39" rx="10" fill="#272a25"/>
+  <rect x="76" y="223" width="14" height="14" rx="3" fill="#beb7ff"/>
+  <text x="101" y="237" fill="#ffffff" font-family="Arial, sans-serif" font-size="13" font-weight="700">Library</text>
+  <text x="218" y="237" fill="#868a82" font-family="Arial, sans-serif" font-size="11">24</text>
+
+  <g fill="#858980" font-family="Arial, sans-serif" font-size="12">
+    <text x="76" y="283">Wishlist</text>
+    <text x="76" y="320">Food to try</text>
+    <text x="76" y="357">Places to visit</text>
+    <text x="76" y="394">Events</text>
+    <text x="76" y="431">Trip ideas</text>
+  </g>
+  <g>
+    <circle cx="66" cy="279" r="4" fill="#ff916f"/>
+    <circle cx="66" cy="316" r="4" fill="#99ccff"/>
+    <circle cx="66" cy="353" r="4" fill="#c9ff63"/>
+    <circle cx="66" cy="390" r="4" fill="#beb7ff"/>
+    <circle cx="66" cy="427" r="4" fill="#f3d082"/>
+  </g>
+
+  <rect x="60" y="625" width="181" height="72" rx="14" fill="#1d201c" stroke="#30342e"/>
+  <circle cx="83" cy="651" r="9" fill="#c9ff63"/>
+  <text x="103" y="655" fill="#f7f6f1" font-family="Arial, sans-serif" font-size="11" font-weight="700">Private library</text>
+  <text x="76" y="678" fill="#73786f" font-family="Arial, sans-serif" font-size="9">AI analysis runs server-side</text>
+
+  <rect x="269" y="34" width="897" height="82" fill="#faf9f6"/>
+  <line x1="269" y1="116" x2="1166" y2="116" stroke="#deddd6"/>
+  <rect x="309" y="57" width="430" height="38" rx="11" fill="#efeee8" stroke="#deddd7"/>
+  <circle cx="332" cy="76" r="7" fill="none" stroke="#8b8c85" stroke-width="2"/>
+  <line x1="337" y1="81" x2="343" y2="87" stroke="#8b8c85" stroke-width="2"/>
+  <text x="357" y="81" fill="#9a9b95" font-family="Arial, sans-serif" font-size="12">Search naturally: “Cape Town travel”...</text>
+  <circle cx="1102" cy="76" r="5" fill="#c9ff63"/>
+  <text x="1115" y="81" fill="#71736d" font-family="Arial, sans-serif" font-size="10">CONNECTED</text>
+
+  <text x="309" y="157" fill="#8e8e88" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">YOUR PRIVATE LIBRARY</text>
+  <text x="309" y="207" fill="#1e201d" font-family="Arial, sans-serif" font-size="38" font-weight="700">Screenshots, now useful.</text>
+  <text x="309" y="236" fill="#777871" font-family="Arial, sans-serif" font-size="13">AI understands what you saved, organises it, and brings the next action forward.</text>
+
+  <rect x="309" y="272" width="817" height="86" rx="17" fill="#1b1d1a"/>
+  <rect x="327" y="291" width="46" height="46" rx="13" fill="#c9ff63"/>
+  <path d="M343 314h14M350 307v14" stroke="#171917" stroke-width="3" stroke-linecap="round"/>
+  <text x="392" y="306" fill="#ffffff" font-family="Arial, sans-serif" font-size="13" font-weight="700">Drop a screenshot here</text>
+  <text x="392" y="328" fill="#8d918a" font-family="Arial, sans-serif" font-size="11">PNG, JPG or WebP · AI analysis starts automatically</text>
+  <rect x="952" y="294" width="148" height="40" rx="12" fill="#2b2e29"/>
+  <text x="984" y="319" fill="#c9ff63" font-family="Arial, sans-serif" font-size="11" font-weight="700">UNDERSTAND → ACT</text>
+
+  <text x="309" y="405" fill="#92918a" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">LIBRARY</text>
+  <text x="309" y="436" fill="#232521" font-family="Arial, sans-serif" font-size="22" font-weight="700">Your screenshots</text>
+
+  <g transform="translate(309 466)">
+    <rect width="244" height="218" rx="17" fill="#ffffff" stroke="#dfddd5"/>
+    <rect x="0" y="0" width="244" height="122" rx="17" fill="url(#shot1)"/>
+    <ellipse cx="124" cy="90" rx="79" ry="13" fill="#00000018"/>
+    <path d="M65 70c27-30 60-43 97-35 17 4 31 16 41 33l-15 24H77z" fill="#282a27"/>
+    <rect x="66" y="90" width="139" height="12" rx="6" fill="#ffffff"/>
+    <text x="16" y="148" fill="#8c8e87" font-family="Arial, sans-serif" font-size="9">PRODUCT · PURCHASE</text>
+    <text x="16" y="172" fill="#242622" font-family="Arial, sans-serif" font-size="15" font-weight="700">Nike Dunk Low</text>
+    <rect x="16" y="188" width="82" height="20" rx="8" fill="#eef4ef"/>
+    <text x="29" y="202" fill="#315b3e" font-family="Arial, sans-serif" font-size="9" font-weight="700">Find product</text>
+    <rect x="105" y="188" width="93" height="20" rx="8" fill="#f1efff"/>
+    <text x="118" y="202" fill="#5c55a4" font-family="Arial, sans-serif" font-size="9" font-weight="700">Save wishlist</text>
+  </g>
+
+  <g transform="translate(570 466)">
+    <rect width="244" height="218" rx="17" fill="#ffffff" stroke="#dfddd5"/>
+    <rect x="0" y="0" width="244" height="122" rx="17" fill="url(#shot2)"/>
+    <circle cx="188" cy="35" r="22" fill="#f9e2aa"/>
+    <rect x="36" y="44" width="108" height="55" fill="none" stroke="#3f443a" stroke-width="7"/>
+    <text x="16" y="148" fill="#8c8e87" font-family="Arial, sans-serif" font-size="9">PLACE · VISIT</text>
+    <text x="16" y="172" fill="#242622" font-family="Arial, sans-serif" font-size="15" font-weight="700">Cape Town café</text>
+    <rect x="16" y="188" width="91" height="20" rx="8" fill="#eef4ef"/>
+    <text x="30" y="202" fill="#315b3e" font-family="Arial, sans-serif" font-size="9" font-weight="700">Open Maps</text>
+    <rect x="114" y="188" width="92" height="20" rx="8" fill="#fff1ec"/>
+    <text x="127" y="202" fill="#8b4b38" font-family="Arial, sans-serif" font-size="9" font-weight="700">Save place</text>
+  </g>
+
+  <g transform="translate(831 466)">
+    <rect width="295" height="218" rx="17" fill="#ffffff" stroke="#dfddd5"/>
+    <rect x="0" y="0" width="295" height="122" rx="17" fill="url(#shot3)"/>
+    <text x="22" y="49" fill="#ffffff" font-family="Arial, sans-serif" font-size="31" font-weight="800">DESIGN</text>
+    <text x="37" y="82" fill="none" stroke="#ffffff" stroke-width="1" font-family="Arial, sans-serif" font-size="31" font-weight="800">WEEK</text>
+    <rect x="218" y="83" width="56" height="23" rx="8" fill="#c9ff63"/>
+    <text x="229" y="99" fill="#172015" font-family="Arial, sans-serif" font-size="9" font-weight="700">18 OCT</text>
+    <text x="16" y="148" fill="#8c8e87" font-family="Arial, sans-serif" font-size="9">EVENT · ATTEND</text>
+    <text x="16" y="172" fill="#242622" font-family="Arial, sans-serif" font-size="15" font-weight="700">Design Week 2026</text>
+    <rect x="16" y="188" width="112" height="20" rx="8" fill="#f1efff"/>
+    <text x="29" y="202" fill="#5c55a4" font-family="Arial, sans-serif" font-size="9" font-weight="700">Add to Calendar</text>
+  </g>
+</svg>
