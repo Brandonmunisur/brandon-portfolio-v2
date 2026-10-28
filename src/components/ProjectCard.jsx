@@ -24,7 +24,7 @@ export default function ProjectCard({ project, index }) {
   }
 
   return (
-    <article className={`project-card ${project.featured ? 'project-featured' : ''}`} ref={ref} onMouseMove={handleMove} onMouseLeave={reset}>
+    <article className={`project-card ${project.featured ? 'project-featured' : ''} ${project.title === 'Please & Thank You' ? 'project-fit-contain' : ''}`} ref={ref} onMouseMove={handleMove} onMouseLeave={reset}>
       <div className="project-media">
         <div className="browser-bar"><span/><span/><span/><small>{project.title.toLowerCase().replaceAll(' ', '-')}.app</small></div>
         <img src={project.image} alt={`${project.title} interface`} />
