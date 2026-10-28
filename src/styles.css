@@ -656,3 +656,15 @@ svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width:
     font-size: 23px;
   }
 }
+
+/* Keep wide UI screenshots sharp without crop/zoom */
+.project-fit-contain .project-media > img {
+  object-fit: contain;
+  object-position: center;
+  padding: 10px;
+  background: #0b1220;
+}
+
+.project-fit-contain:hover .project-media > img {
+  transform: scale(1.01);
+}
