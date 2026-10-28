@@ -28,7 +28,7 @@ export const projects = [
     description:
       'A job-application workspace for tracking roles, interview stages, recruiter details and follow-up dates in one focused interface.',
     image:
-      'https://raw.githubusercontent.com/Brandonmunisur/react-portfolio/main-Brandon/src/assets/images/application-tracker.png',
+      `${import.meta.env.BASE_URL}application-tracker-preview.svg`,
     stack: ['React', 'JavaScript', 'Vite', 'Local Storage'],
     github: 'https://github.com/Brandonmunisur/careerboard-react',
     live: 'https://brandonmunisur.github.io/careerboard-react/',
