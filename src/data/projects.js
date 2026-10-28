@@ -33,6 +33,17 @@ export const projects = [
     github: 'https://github.com/Brandonmunisur/disney-clone',
     live: 'https://disneyplus-clone-84335.firebaseapp.com/',
   },
+  {
+    title: 'Please & Thank You',
+    label: 'Full Stack / Multiplayer Game',
+    description:
+      'A voice-powered browser party game with private hands, live multiplayer rooms, turn-based gameplay and real-time player interaction.',
+    image:
+      'https://brandonmunisur.github.io/brandon-portfolio-v2/please-and-thank-you-preview.svg',
+    stack: ['React', 'TypeScript', 'Convex', 'Real-time', 'Voice'],
+    github: 'https://github.com/Brandonmunisur/please-and-thank-you',
+    live: 'https://please-and-thank-you.vercel.app/',
+  },
 ]
 
 export const stack = [
