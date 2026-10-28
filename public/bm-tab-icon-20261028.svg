@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BM — Brandon Munisur">
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#243B7A"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#AFC7FF"/>
+      <stop offset="100%" stop-color="#7196FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="url(#night)" stroke="#5675CC" stroke-width="1"/>
+  <path fill="#FFFFFF" fill-rule="evenodd" d="M8 17h12c8 0 12 4 12 10 0 3.7-2 6-5 7.2 4 1.4 6 4.4 6 8.5C33 49 28 52 20 52H8V17zm8 7v7h4c3 0 4.5-1 4.5-3.5S23 24 20 24h-4zm0 14v7h4.4c3.1 0 4.7-1.2 4.7-3.5 0-2.4-1.6-3.5-4.7-3.5H16z"/>
+  <path fill="url(#blue)" d="M36 52V17h6l7 12 7-12h5v35h-7V31l-5 8-5-8v21z"/>
+</svg>
