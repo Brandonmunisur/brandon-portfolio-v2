@@ -39,7 +39,7 @@ export const projects = [
     description:
       'A voice-powered browser party game with private hands, live multiplayer rooms, turn-based gameplay and real-time player interaction.',
     image:
-      'https://brandonmunisur.github.io/brandon-portfolio-v2/please-and-thank-you-preview.jpg',
+      'https://raw.githubusercontent.com/Brandonmunisur/brandon-portfolio-v2/main/public/please-and-thank-you-preview.jpg',
     stack: ['React', 'TypeScript', 'Convex', 'Real-time', 'Voice'],
     github: 'https://github.com/Brandonmunisur/please-and-thank-you',
     live: 'https://please-and-thank-you.vercel.app/',
