@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title description">
+<title id="title">CareerBoard application tracker — Indigo dashboard preview</title>
+<desc id="description">A stylised preview of the redesigned CareerBoard application dashboard with its horizontal top bar, indigo header, four metrics, filters, and two sample tracked job applications.</desc>
+<defs>
+<linearGradient id="banner" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1d285c"/><stop offset="60%" stop-color="#353e8e"/><stop offset="100%" stop-color="#6467c6"/></linearGradient>
+<linearGradient id="monogram" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#e6e7ff"/><stop offset="100%" stop-color="#ae9ff4"/></linearGradient>
+<filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="17" flood-color="#182855" flood-opacity=".12"/></filter>
+<clipPath id="frame"><rect x="30" y="28" width="1140" height="704" rx="24"/></clipPath>
+<clipPath id="hero"><rect x="69" y="133" width="1062" height="196" rx="23"/></clipPath>
+</defs>
+<rect x="0" y="0" width="1200" height="760" rx="30" fill="#0f1733"/>
+<g filter="url(#soft-shadow)"><rect x="30" y="28" width="1140" height="704" rx="24" fill="#f4f6fd"/></g>
+<g clip-path="url(#frame)">
+<rect x="30" y="28" width="1140" height="76" rx="0" fill="#fff"/>
+<path d="M30 104H1170" stroke="#e0e5f4"/>
+<rect x="70" y="48" width="39" height="39" rx="10" fill="#253579"/>
+<g transform="translate(78 57) scale(.39)"><path d="M17 16h17c9 0 15 5 15 13 0 7-5 12-13 13H27v9H17V16zm10 9v9h7c3 0 5-2 5-5s-2-4-5-4h-7z" fill="url(#monogram)"/></g>
+<text x="119" y="74" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#273156" font-weight="800" >Career</text>
+<text x="177" y="74" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#5364dd" font-weight="800" >Board</text>
+<rect x="716" y="48" width="183" height="39" rx="12" fill="#eff0ff" stroke="#e1e3ff" stroke-width="1"/>
+<text x="732" y="64" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#6773ab" font-weight="700" letter-spacing="1">WEEKLY TARGET</text>
+<text x="732" y="80" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4a54b6" font-weight="700" >25 applications</text>
+<path d="M931 49V85" stroke="#e0e5f4"/>
+<text x="951" y="65" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#20294e" font-weight="700" >Brandon Munisur</text>
+<text x="951" y="81" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#7e86a3" font-weight="400" >Junior Frontend Developer</text>
+<rect x="69" y="133" width="1062" height="196" rx="23" fill="url(#banner)"/>
+<g clip-path="url(#hero)"><circle cx="930" cy="58" r="206" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="1.4"/><circle cx="930" cy="58" r="154" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="36"/><circle cx="1030" cy="228" r="180" fill="#a0a9ff" fill-opacity=".035"/></g>
+<text x="104" y="182" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#c4ccff" font-weight="700" letter-spacing="2.3">JOB SEARCH COMMAND CENTRE</text>
+<text x="104" y="239" font-family="Arial, Helvetica, sans-serif" font-size="42" fill="#ffffff" font-weight="800" letter-spacing="-1.5">Application tracker</text>
+<text x="104" y="270" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#d0d8fa" font-weight="400" >Organise opportunities, follow-ups and interview progress.</text>
+<rect x="805" y="217" width="132" height="44" rx="11" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+<text x="835" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#303d98" font-weight="700" >Export CSV</text>
+<rect x="946" y="217" width="161" height="44" rx="11" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+<text x="963" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#303d98" font-weight="700" >+ Add application</text>
+<g filter="url(#soft-shadow)"><rect x="87" y="308" width="241" height="120" rx="16" fill="#ffffff" stroke="#e0e5f4" stroke-width="1"/></g>
+<rect x="87" y="308" width="241" height="5" rx="2" fill="#6375ed"/>
+<text x="105" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#636d91" font-weight="700" >Total applications</text>
+<text x="105" y="385" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#222d65" font-weight="800" >2</text>
+<text x="105" y="406" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8791a9" font-weight="400" >All tracked opportunities</text>
+<g filter="url(#soft-shadow)"><rect x="345" y="308" width="241" height="120" rx="16" fill="#ffffff" stroke="#e0e5f4" stroke-width="1"/></g>
+<rect x="345" y="308" width="241" height="5" rx="2" fill="#8775df"/>
+<text x="363" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#636d91" font-weight="700" >Interviews</text>
+<text x="363" y="385" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#222d65" font-weight="800" >1</text>
+<text x="363" y="406" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8791a9" font-weight="400" >Active interview processes</text>
+<g filter="url(#soft-shadow)"><rect x="603" y="308" width="241" height="120" rx="16" fill="#ffffff" stroke="#e0e5f4" stroke-width="1"/></g>
+<rect x="603" y="308" width="241" height="5" rx="2" fill="#27a99d"/>
+<text x="621" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#636d91" font-weight="700" >Offers</text>
+<text x="621" y="385" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#222d65" font-weight="800" >0</text>
+<text x="621" y="406" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8791a9" font-weight="400" >Successful outcomes</text>
+<g filter="url(#soft-shadow)"><rect x="861" y="308" width="241" height="120" rx="16" fill="#ffffff" stroke="#e0e5f4" stroke-width="1"/></g>
+<rect x="861" y="308" width="241" height="5" rx="2" fill="#ee956e"/>
+<text x="879" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#636d91" font-weight="700" >Follow-ups due</text>
+<text x="879" y="385" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#222d65" font-weight="800" >2</text>
+<text x="879" y="406" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8791a9" font-weight="400" >Applications needing action</text>
+<text x="89" y="465" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#6976b8" font-weight="800" letter-spacing="2">PIPELINE</text>
+<text x="89" y="496" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#27345f" font-weight="800" >Your applications</text>
+<text x="1068" y="490" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#7180a1" font-weight="500" >2 results</text>
+<rect x="89" y="518" width="499" height="49" rx="11" fill="#ffffff" stroke="#dce2f2" stroke-width="1"/>
+<circle cx="116" cy="542" r="8" fill="none" stroke="#7887ad" stroke-width="2"/><path d="M122 548l8 8" fill="none" stroke="#7887ad" stroke-width="2" stroke-linecap="round"/>
+<text x="143" y="547" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#939db4" font-weight="500" >Search company, role, location or notes</text>
+<text x="618" y="548" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#7882a3" font-weight="600" >Filter:</text>
+<rect x="666" y="522" width="49" height="42" rx="9" fill="#35488f" stroke="#35488f" stroke-width="1"/>
+<text x="690.5" y="547" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#ffffff" font-weight="700" text-anchor="middle">All</text>
+<rect x="722" y="522" width="85" height="42" rx="9" fill="#ffffff" stroke="#dae0f0" stroke-width="1"/>
+<text x="764.5" y="547" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#647092" font-weight="500" text-anchor="middle">Wishlist</text>
+<rect x="814" y="522" width="76" height="42" rx="9" fill="#ffffff" stroke="#dae0f0" stroke-width="1"/>
+<text x="852" y="547" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#647092" font-weight="500" text-anchor="middle">Applied</text>
+<rect x="897" y="522" width="89" height="42" rx="9" fill="#ffffff" stroke="#dae0f0" stroke-width="1"/>
+<text x="941.5" y="547" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#647092" font-weight="500" text-anchor="middle">Interview</text>
+<rect x="993" y="522" width="62" height="42" rx="9" fill="#ffffff" stroke="#dae0f0" stroke-width="1"/>
+<text x="1024" y="547" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#647092" font-weight="500" text-anchor="middle">Offer</text>
+<rect x="1062" y="522" width="82" height="42" rx="9" fill="#ffffff" stroke="#dae0f0" stroke-width="1"/>
+<text x="1103" y="547" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#647092" font-weight="500" text-anchor="middle">Rejected</text>
+<g filter="url(#soft-shadow)"><rect x="89" y="592" width="504" height="129" rx="16" fill="#ffffff" stroke="#e0e5f4" stroke-width="1"/></g>
+<rect x="89" y="594" width="4" height="126" rx="1" fill="#7b89e9"/>
+<text x="111" y="625" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#222e5c" font-weight="800" >Graduate Software Developer</text>
+<text x="111" y="649" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6e7897" font-weight="500" >Capitec</text>
+<rect x="485" y="607" width="88" height="27" rx="7" fill="#e9edff"/>
+<text x="529" y="625" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#3947a5" font-weight="700" text-anchor="middle">Applied</text>
+<path d="M109 667h465" stroke="#edf0f8"/>
+<circle cx="116" cy="690" r="4" fill="#8695b8"/>
+<text x="127" y="694" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#687492" font-weight="500" >Stellenbosch</text>
+<text x="331" y="694" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#687492" font-weight="500" >Applied: 24 Jul 2026</text>
+<g filter="url(#soft-shadow)"><rect x="610" y="592" width="504" height="129" rx="16" fill="#ffffff" stroke="#e0e5f4" stroke-width="1"/></g>
+<rect x="610" y="594" width="4" height="126" rx="1" fill="#eab45c"/>
+<text x="632" y="625" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#222e5c" font-weight="800" >Graduate Software Engineer</text>
+<text x="632" y="649" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6e7897" font-weight="500" >Entelect</text>
+<rect x="1006" y="607" width="88" height="27" rx="7" fill="#fff2d9"/>
+<text x="1050" y="625" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#805513" font-weight="700" text-anchor="middle">Interview</text>
+<path d="M630 667h465" stroke="#edf0f8"/>
+<circle cx="637" cy="690" r="4" fill="#8695b8"/>
+<text x="648" y="694" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#687492" font-weight="500" >Johannesburg</text>
+<text x="852" y="694" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#687492" font-weight="500" >Applied: 18 Jul 2026</text>
+</g></svg>
