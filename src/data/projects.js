@@ -12,6 +12,17 @@ export const projects = [
     featured: true,
   },
   {
+    title: 'Please & Thank You',
+    label: 'Full Stack / Multiplayer Game',
+    description:
+      'A voice-powered browser party game with private hands, live multiplayer rooms, turn-based gameplay and real-time player interaction.',
+    image:
+      'https://raw.githubusercontent.com/Brandonmunisur/brandon-portfolio-v2/main/public/please-and-thank-you-preview.jpg',
+    stack: ['React', 'TypeScript', 'Convex', 'Real-time', 'Voice'],
+    github: 'https://github.com/Brandonmunisur/please-and-thank-you',
+    live: 'https://please-and-thank-you.vercel.app/',
+  },
+  {
     title: 'Application Tracker',
     label: 'Productivity / React',
     description:
@@ -32,17 +43,6 @@ export const projects = [
     stack: ['React', 'Firebase', 'Redux', 'JavaScript'],
     github: 'https://github.com/Brandonmunisur/disney-clone',
     live: 'https://disneyplus-clone-84335.firebaseapp.com/',
-  },
-  {
-    title: 'Please & Thank You',
-    label: 'Full Stack / Multiplayer Game',
-    description:
-      'A voice-powered browser party game with private hands, live multiplayer rooms, turn-based gameplay and real-time player interaction.',
-    image:
-      'https://raw.githubusercontent.com/Brandonmunisur/brandon-portfolio-v2/main/public/please-and-thank-you-preview.jpg',
-    stack: ['React', 'TypeScript', 'Convex', 'Real-time', 'Voice'],
-    github: 'https://github.com/Brandonmunisur/please-and-thank-you',
-    live: 'https://please-and-thank-you.vercel.app/',
   },
 ]
 
