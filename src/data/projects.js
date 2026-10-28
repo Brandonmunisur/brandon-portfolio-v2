@@ -16,8 +16,7 @@ export const projects = [
     label: 'Full Stack / Multiplayer Game',
     description:
       'A voice-powered browser party game with private hands, live multiplayer rooms, turn-based gameplay and real-time player interaction.',
-    image:
-      `${import.meta.env.BASE_URL}please-and-thank-you-hq.webp`,
+   image: `${import.meta.env.BASE_URL}please-and-thank-you.png`,
     stack: ['React', 'TypeScript', 'Convex', 'Real-time', 'Voice'],
     github: 'https://github.com/Brandonmunisur/please-and-thank-you',
     live: 'https://please-and-thank-you.vercel.app/',
